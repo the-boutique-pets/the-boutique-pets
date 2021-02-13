@@ -6,8 +6,26 @@
 ### Objetivo Especifico
  Brindar atención médica veterinaria de calidad.
 Llevar un manejo adecuado de los productos. 
-Brindar servicios veterinarios de bajo costo en beneficio de más población que lo necesite. 
+Brindar servicios veterinarios de bajo costo en beneficio de más población que lo necesite
 Brindar un servicio satisfactorio para el cliente
+
+### Planteamiento del problema
+
+Queremos solucionar los inconvenientes que se pueden ver en las veterinarias, como lo son: 
+-La falta de organización y facilidad a la hora de recibir los productos o a la hora de encargar los productos. 
+-Tener un conteo de la fecha de vencimiento de los productos.
+-Tener en cuenta la fecha de ingreso de las mascotas que lleguen a hospitalización, fecha y hora para tener un buen control de las fechas.
+
+### Alcance del proyecto
+
+Tenemos pensado este proyecto para una sola veterinaria mientras empezamos ya que lleva todo un proceso el inventario pero luego de que podamos realizarlo correctamente queremos que más veterinarias lo puedan usar para hacerlo más fácil.
+
+### Justificación
+
+Decidimos crear este proyecto  con el fin de poder brindar una mejor atención  y cuidado a las mascotas. El cual  tiene como  propósito dar a conocer una mejor organización de los elementos de la veterinaria como lo son: los medicamentos, el orden de los productos para así poder tener un buen control y manejo tanto de los animales como de la veterinaria.
+
+
+
 
 
 <!--
