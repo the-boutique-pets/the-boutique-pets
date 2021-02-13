@@ -1,6 +1,6 @@
- <center>
+ 
 ### Isotipo
-<img src=![WhatsApp Image 2021-01-28 at 11 37 22 AM](https://user-images.githubusercontent.com/78992994/107841478-37db5400-6d89-11eb-8dc3-e3625c3a3ece.jpeg)> </center>
+![WhatsApp Image 2021-01-28 at 11 37 22 AM](https://user-images.githubusercontent.com/78992994/107841478-37db5400-6d89-11eb-8dc3-e3625c3a3ece.jpeg)
 ### Objetivo General
 ### Crear y diseñar un sistema de informacion que nos brindara la facilidad del manejo de productos que llegan a la veterinaria y mantener un buen conteo y organización de productos de cuidado y protección de nuestras mascotas
 
