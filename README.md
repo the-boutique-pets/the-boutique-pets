@@ -4,6 +4,12 @@
 ### Objetivo General
 ### Crear y diseñar un sistema de informacion que nos brindara la facilidad del manejo de productos que llegan a la veterinaria y mantener un buen conteo y organización de productos de cuidado y protección de nuestras mascotas
 
+### Objetivo Especifico
+### Brindar atención médica veterinaria de calidad.
+Llevar un manejo adecuado de los productos. 
+Brindar servicios veterinarios de bajo costo en beneficio de más población que lo necesite. 
+Brindar un servicio satisfactorio para el cliente
+
 <!--
 **the-boutique-pets/the-boutique-pets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
