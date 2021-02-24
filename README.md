@@ -24,6 +24,8 @@ Tenemos pensado este proyecto para una sola veterinaria mientras empezamos ya qu
 
 Decidimos crear este proyecto  con el fin de poder brindar una mejor atención  y cuidado a las mascotas. El cual  tiene como  propósito dar a conocer una mejor organización de los elementos de la veterinaria como lo son: los medicamentos, el orden de los productos para así poder tener un buen control y manejo tanto de los animales como de la veterinaria.
 
+### Mapa BPMN
+
 
 
 
